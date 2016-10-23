@@ -8,7 +8,7 @@ body {
   height: 100%;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #756955;
-  background: url("img/body-bg.png");
+  background: url("../img/body-bg.png");
   background-color: #efe4bb;
 }
 html {
