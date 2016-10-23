@@ -27,12 +27,12 @@ $(function() {
     });
 });
 
-/* Closes the Responsive Menu on Menu Item Click
+/* Closes the Responsive Menu on Menu Item Click */
 $('.navbar-collapse ul li a').click(function() {
     $(this).closest('.collapse').collapse('toggle');
 });
 
-// Google Maps Scripts
+/* Google Maps Scripts
 var map = null;
 // When the window has finished loading create our google map below
 google.maps.event.addDomListener(window, 'load', init);
